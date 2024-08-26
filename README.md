@@ -1,4 +1,8 @@
-<h1 align="center">Hi , I'm Dogan Ege BULTE</h1>
+<h1 align="center"><div align="center">
+ <a href="https://github.com/CagatayAkkas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Hi+I+Am+Dogan Ege BULTE+%e2%9c%a8;Hi+I+Am+Dogan Ege BULTE;Hi+I+Am+Dogan Ege BULTE" alt="Typing SVG" />
+ </a>
+</div></h1>
 <h3 align="center">B.Sc.Computer Engineering Student @ Politecnico di Torino</h3>
 
 - I’m currently learning **Tensorflow,Java AND SQL**
@@ -22,6 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dege34&show_icons=true&locale=en&layout=compact" alt="dege34" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dege34&show_icons=true&locale=en" alt="dege34" /></p>
+
 
 
 
