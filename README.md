@@ -1,15 +1,15 @@
 <h1 align="center">Hi , I'm Dogan Ege BULTE</h1>
 <h3 align="center">B.Sc.Computer Engineering Student @ Politecnico di Torino</h3>
 
-- 🌱 I’m currently learning **Tensorflow,Java AND SQL**
+- I’m currently learning **Tensorflow,Java AND SQL**
 
-- 👨‍💻 All of my projects are available at [www.thedege.com](www.thedege.com)
+- All of my projects are available at [www.thedege.com](www.thedege.com)
 
-- 📝 I regularly write articles on [www.thedege.com](www.thedege.com)
+- I regularly write articles on [www.thedege.com](www.thedege.com)
 
-- 📫 How to reach me **dege.bulte@studenti.polito.it**
+- How to reach me **dege.bulte@studenti.polito.it**
 
-- 📄 Know about my experiences [www.thedege.com](www.thedege.com)
+- Know about my experiences [www.thedege.com](www.thedege.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
