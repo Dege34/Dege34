@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Dogan Ege BULTE</h1>
 <h3 align="center">B.Sc.Computer Engineering Student @ Politecnico di Torino</h3>
 
