@@ -1,5 +1,5 @@
 <h1 align="center"><div align="center">
- <a href="https://github.com/CagatayAkkas">
+ <a href="https://github.com/Dege34">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1DD71D&size=35&duration=3000&pause=500&center=true&vCenter=true&width=495&lines=%e2%9c%a8+Hi+I+Am+Dogan Ege BULTE+%e2%9c%a8;Hi+I+Am+Dogan Ege BULTE;Hi+I+Am+Dogan Ege BULTE;¿什麼是真實的?++¿+what is real+)+?)" alt="Dege Introducing" />
  </a>
 </div></h1>
