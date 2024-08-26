@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dege34&show_icons=true&locale=en" alt="dege34" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dege34&" alt="dege34" /></p>
+
 
 <!--
 **Dege34/Dege34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
