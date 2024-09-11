@@ -27,9 +27,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dege34&show_icons=true&locale=en&layout=compact" alt="dege34" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dege34&show_icons=true&locale=en" alt="dege34" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dege34&show_icons=true&locale=en" alt="dege34" /></p><br>
+<h1>:sparkles: <a href="https://github.com/Dege34/DEGEAI-Project">DEGEAI-Project</a> (MY BEST PROJECT [still under development])</h1><br>
 
-
+![](https://github.com/Dege34/DEGEAI-Project/blob/main/asset/images/degeai%20app.gif?raw=true)
 
 
 <!--
