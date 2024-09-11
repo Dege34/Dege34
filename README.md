@@ -5,7 +5,9 @@
 </div></h1>
 <h3 align="center">B.Sc.Computer Engineering Student @ Politecnico di Torino</h3>
 
-- I’m currently learning **Tensorflow,Java AND SQL**
+- I'm currently working on <a href="https://github.com/Dege34/DEGEAI-Project">DEGEAI-Project</a>.
+ 
+- I’m currently learning **Tensorflow, Java AND SQL**
 
 - All of my projects are available at [www.thedege.com](www.thedege.com)
 
