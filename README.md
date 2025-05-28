@@ -1,6 +1,6 @@
 <h1 align="center"><div align="center">
  <a href="https://github.com/Dege34">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1DD71D&size=35&duration=3000&pause=500&center=true&vCenter=true&width=495&lines=%e2%9c%a8+Hi+I+Am+Dogan Ege BULTE+%e2%9c%a8;Hi+I+Am+Dogan Ege BULTE;Hi+I+Am+Dogan Ege BULTE;¿什麼是真實的?++¿+what is real+)+?)" alt="Dege Introducing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=1DD71D&size=35&duration=3000&pause=500&center=true&vCenter=true&width=495&lines=%e2%9c%a8+Hi+I+Am+Dogan%20Ege%20BULTE+%e2%9c%a8;Hi+I+Am+Dogan%20Ege%20BULTE;Hi+I+Am+Dogan%20Ege%20BULTE;%C2%BF%E4%BB%80%E9%BA%BC%E6%98%AF%E7%9C%9F%E5%AF%A6%E7%9A%84?++%C2%BF+what%20is%20real+)+?)" alt="Dege Introducing" />
  </a>
 </div></h1>
 <h3 align="center">B.Sc.Computer Engineering Student @ Politecnico di Torino</h3>
