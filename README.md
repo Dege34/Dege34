@@ -7,7 +7,7 @@
 
 - I'm currently working on <a href="https://github.com/Dege34/DEGEAI-Project">DEGEAI-Project</a>.
  
-- I’m currently learning **Tensorflow, Java**
+- I’m currently learning **Tensorflow, R**
 
 - All of my projects are available at [www.thedege.com](www.thedege.com)
 
